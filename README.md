@@ -10,7 +10,7 @@
   - Challenges Enountered: *One of the challenges I encountered while perfoming this analysis was in being able to 'sort' the outcome rows in a way that presented the 'Successful' outcome findings first.  I overcame this challenge by researching the most efficient way to 'sort' pivot table data, and found that by sorting the outcomes from 'Z-A' I was able to achieve my objective.*
   
   - Outcomes Based on Launch Date Visual Findings: 
-  <img width="611" alt="Outcomes Based on Launch Date" src="https://user-images.githubusercontent.com/77044730/108019362-14621480-6fe8-11eb-9f9b-7a44f27e02ba.png">
+ <img width="611" alt="Theater Outcomes vs Launch" src="https://user-images.githubusercontent.com/77044730/108019931-432cba80-6fe9-11eb-898e-0e872ee12bbd.png">
 
 
 - Outcomes Based on Goals Analysis:
