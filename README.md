@@ -7,7 +7,7 @@
 - **Outcomes Based on Launch Date:**
   - Analysis Description: *This analysis depicts the number of theater campaign outcomes [successful, failed, and canceled] by month for every year the campaign was launched.  Please also note that a filter has also been added to this data set, in order to provide you with further insights into the specific yearly theater campaign outcomes.*
   
-  - Challenges Enountered: *One of the challenges I encountered while perfoming this analysis was in being able to 'sort' the outcome rows in a way that presented the 'Successful' outcome findings first.  I overcame this challenge by researching the most efficient way to 'sort' pivot table data, and found that by sorting the outcomes from 'Z-A' I was able to achieve my objective.*
+  - Challenges Encountered: *One of the challenges I encountered while perfoming this analysis was in being able to 'sort' the outcome rows in a way that presented the 'Successful' outcome findings first.  I overcame this challenge by researching the most efficient way to 'sort' pivot table data, and found that by sorting the outcomes from 'Z-A' I was able to achieve my objective.*
   
   - Outcomes Based on Launch Date Visual Findings: 
  <img width="300" alt="Theater Outcomes vs Launch" src="https://user-images.githubusercontent.com/77044730/108019931-432cba80-6fe9-11eb-898e-0e872ee12bbd.png">
@@ -26,7 +26,7 @@
 ## Results
 
 - **Outcomes Based on Launch Date:**
- - Analysis Outcome: *Between the years of 2009 - 2016 the most successful Theater Camapigns were successfully launched in the months of May & June; the most canceled theater campaigns were launched in the month of January; and the most failed campaigns were launched in the months of May & July/October.*
+  - Analysis Outcome: *Between the years of 2009 - 2016 the most successful Theater Camapigns were successfully launched in the months of May & June; the most canceled theater campaigns were launched in the month of January; and the most failed campaigns were launched in the months of May & July/October.*
  
 - **Outcomes Based on Goals:**
   - Analysis Outcome: *Based upon the 534 plays that had a funding amount goal of $1,000 to $4,999, 73% of the plays were successful and 27% of the plays failed.*
